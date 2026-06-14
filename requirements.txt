@@ -1,0 +1,16 @@
+streamlit
+openai
+python-dotenv
+
+langchain
+langchain-community
+langchain-openai
+langgraph
+
+pypdf
+rank-bm25
+faiss-cpu
+sentence-transformers
+
+numpy
+scikit-learn
