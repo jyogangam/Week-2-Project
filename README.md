@@ -192,16 +192,6 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Create a `.env` file in the root project folder:
-
-```text
-NEBIUS_API_KEY=your_api_key_here
-NEBIUS_BASE_URL=https://api.studio.nebius.com/v1
-NEBIUS_CHAT_MODEL=meta-llama/Llama-3.3-70B-Instruct
-```
-
-Do not upload `.env` to GitHub.
-
 ## Run the Streamlit App
 
 From the `enterprise-policy-rag` folder:
